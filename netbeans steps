@@ -1,0 +1,11 @@
+create new web application CalculatorWSApllication
+right click on project and add new web service CalculatorWS (org.me.calculator) implement stateless bean
+Add new operator add
+Deploy the project
+Test web service
+
+Create new Java application Calculator client
+Create new web service and import previous one
+Drag add to the java class
+int result = add (i,j)(give value to i and j)
+run
